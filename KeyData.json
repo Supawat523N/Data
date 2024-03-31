@@ -1,8 +1,8 @@
 {
     "Key1": {
-        "Used": true,
+        "Used": false,
         "UserID": null,
-        "BlackListKey": false
+        "BlackListKey": true
     },
     "Key2": {
         "Used": false,
