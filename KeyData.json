@@ -1,6 +1,6 @@
 {
     "Key1": {
-        "Used": false,
+        "Used": true,
         "UserID": null,
         "BlackListKey": false
     },
